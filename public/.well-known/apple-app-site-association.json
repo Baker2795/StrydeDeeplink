@@ -1,1 +1,11 @@
-test
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.b4k3r.Stepper",
+        "paths": ["/deep-link/*"]
+      }
+    ]
+  }
+}
