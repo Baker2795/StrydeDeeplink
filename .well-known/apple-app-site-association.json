@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.yourcompany.yourapp",
+        "appID": "com.b4k3r.Stepper",
         "paths": ["/deep-link/*"]
       }
     ]
